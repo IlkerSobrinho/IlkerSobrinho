@@ -1,48 +1,75 @@
 <div align="center">
-  <h2>:wave: Olá! Eu sou Ilker</h2>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpiZHFuMnpmNmhybTh3Y3p2emhnNmRvem04YThxZ3Y5emM3bjljbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/axbcxcNThrlte/giphy.gif" width="130" alt="GIF" />
-  <br>
-  <p><i>:shield: Explorando o Red/Blue Team e automatizando soluções</i></p>
+  
+  # Olá! Eu sou o Ilker 👋
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpiZHFuMnpmNmhybTh3Y3p2emhnNmRvem04YThxZ3Y5emM3bjljbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/axbcxcNThrlte/giphy.gif" width="140" alt="GIF" />
+  
+  ### Estudante de Ciência da Computação | Foco em Infraestrutura, Redes e Segurança
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/Local-Rio%20de%20Janeiro-blue?style=for-the-badge" alt="Local"/>
+  </p>
+
 </div>
 
 ---
 
-### :man_detective: Sobre Mim
+### 👨‍💻 Sobre Mim
 
-- :books: Focado em **Cybersecurity**, infraestrutura de redes e automação com **Python**.
-- :desktop: Cursando **Ciência da Computação** (6º período) no Centro Universitário IBMR.
-- :penguin: Entusiasta de **Linux** (Mint/Ubuntu/Kali) e customização de ambientes.
-- :dart: Desenvolvendo projetos práticos de mapeamento de redes, hardening e detecção de ameaças.
-- :rocket: Buscando oportunidades em administração de sistemas, segurança e automação.
+- 🎓 Cursando **Ciência da Computação** (6º período) no Centro Universitário IBMR
+- 🛡️ Focado em **Cybersecurity**, administração de sistemas e automação
+- 🐧 Entusiasta de **Linux** (Mint, Ubuntu e Kali) e customização de ambientes
+- 🔍 Desenvolvendo projetos práticos de mapeamento de redes, hardening e detecção de ameaças
+- 🚀 Buscando oportunidades em infraestrutura, segurança da informação e automação de rotinas
 
-### :tools: Arsenal & Ferramentas
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87A652?style=for-the-badge&logo=linux-mint&logoColor=white">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+### 🛠️ Tecnologias & Ferramentas
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-### :bar_chart: Estatísticas
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[Network Auditor](https://github.com/IlkerSobrinho/network-auditor)** | Mapeamento de rede, detecção de ARP Spoofing e varredura de portas com Nmap | Python, Scapy, Nmap |
+| **[CyberShield Auditor](https://github.com/IlkerSobrinho/iAxSpam)** | Detector de phishing e spam usando NLP e Random Forest | Python, Machine Learning, NLP |
+| **[Sistema Auth](https://github.com/IlkerSobrinho/sistema-auth)** | Arquitetura de autenticação e hardening de servidores | MariaDB, Segurança |
+
+---
+
+### 📊 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IlkerSobrinho&show_icons=true&bg_color=15101E&title_color=C678DD&text_color=ABB2BF&icon_color=9D72DE&border_color=3B2A59&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlkerSobrinho&layout=compact&bg_color=15101E&title_color=C678DD&text_color=ABB2BF&border_color=3B2A59&locale=pt-br" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IlkerSobrinho&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&locale=pt-br" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlkerSobrinho&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&locale=pt-br" alt="Top Languages" />
 </div>
 
-<br>
+---
 
-### :mailbox_with_mail: Conecte-se comigo
+### 📫 Contato
 
-<div> 
+<p align="center">
   <a href="https://www.linkedin.com/in/ilker-sobrinho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-</div>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ilkerberg10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<div 
