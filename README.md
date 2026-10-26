@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Cursando **Ciência da Computação** (6º período) no Centro Universitário IBMR
+- 🎓 Cursando **Ciência da Computação** (7º período) no Centro Universitário IBMR
 - 🛡️ Focado em **Cybersecurity**, administração de sistemas e automação
 - 🐧 Entusiasta de **Linux** (Mint, Ubuntu e Kali) e customização de ambientes
 - 🔍 Desenvolvendo projetos práticos de mapeamento de redes, hardening e detecção de ameaças
