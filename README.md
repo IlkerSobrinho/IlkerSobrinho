@@ -1,15 +1,15 @@
-<h-div align="center">
-
-# Olá! Eu sou o Ilker 👋
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpiZHFuMnpmNmhybTh3Y3p2emhnNmRvem04YThxZ3Y5emM3bjljbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/axbcxcNThrlte/giphy.gif" width="120" alt="GIF" />
-
-### Estudante de Ciência da Computação | Foco em Infraestrutura, Redes e Segurança
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Local-Rio%20de%20Janeiro-blue?style=for-the-badge" alt="Local"/>
-</p>
+<div align="center">
+  
+  # Olá! Eu sou o Ilker 👋
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpiZHFuMnpmNmhybTh3Y3p2emhnNmRvem04YThxZ3Y5emM3bjljbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/axbcxcNThrlte/giphy.gif" width="140" alt="GIF" />
+  
+  ### Estudante de Ciência da Computação | Foco em Infraestrutura, Redes e Segurança
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/Local-Rio%20de%20Janeiro-blue?style=for-the-badge" alt="Local"/>
+  </p>
 
 </div>
 
@@ -17,11 +17,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Cursando **Ciência da Computação** (7º período) no Centro Universitário IBMR
-- 🛡️ Focado em **Cybersecurity**, administração de sistemas e automação
-- 🐧 Entusiasta de **Linux** (Mint, Ubuntu e Kali) e customização de ambientes
-- 🔍 Desenvolvendo projetos práticos de mapeamento de redes, hardening e detecção de ameaças
-- 🚀 Buscando oportunidades em infraestrutura, segurança da informação e automação de rotinas
+* 🎓 Cursando **Ciência da Computação** (7º período) no Centro Universitário IBMR
+* 🛡️ Focado em **Cybersecurity**, administração de sistemas e automação
+* 🐧 Entusiasta de **Linux** (Mint, Ubuntu e Kali) e customização de ambientes
+* 🔍 Desenvolvendo projetos práticos de mapeamento de redes, hardening e detecção de ameaças
+* 🚀 Buscando oportunidades em infraestrutura, segurança da informação e automação de rotinas
 
 ---
 
@@ -45,7 +45,7 @@
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
+|---------|-----------|-------------|
 | **[Network Auditor](https://github.com/IlkerSobrinho/network-auditor)** | Mapeamento de rede, detecção de ARP Spoofing e varredura de portas com Nmap | Python, Scapy, Nmap |
 | **[CyberShield Auditor](https://github.com/IlkerSobrinho/iAxSpam)** | Detector de phishing e spam usando NLP e Random Forest | Python, Machine Learning, NLP |
 | **[Sistema Auth](https://github.com/IlkerSobrinho/sistema-auth)** | Arquitetura de autenticação e hardening de servidores | MariaDB, Segurança |
@@ -54,12 +54,10 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlkerSobrinho&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&locale=pt-br" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlkerSobrinho&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&locale=pt-br" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=IlkerSobrinho&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&locale=pt-br" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IlkerSobrinho&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&locale=pt-br" alt="Top Languages" />
+</div>
 
 ---
 
